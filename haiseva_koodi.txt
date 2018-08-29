@@ -1,0 +1,5 @@
+Haisevat koodit ovat varoitusmerkkej‰ mahdollisista viallisista koodinp‰tkist‰ omassa ohjelmistossa.
+Niin sanotulla "hyv‰ll‰ koodihajuaistilla" pystyt‰‰n korjaamaan n‰it‰ viallisia koodinp‰tki‰ jo kehitysvaiheessa.
+Korjaamalla haisevia koodeja pystyt‰‰n v‰ltt‰m‰‰n niiden ilmestyminen valmistilassa,
+ jolloin koodin viallisuus saattaa kostautua hintavalla tavalla.
+Yleiseisesti hyv‰ koodihajuaisti alkaa kehittym‰‰n jo koodaajan uran alkuvaiheissa
